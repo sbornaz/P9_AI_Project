@@ -1,0 +1,9 @@
+data/
+merged_clicks.csv
+src/__pycache__/
+src/.ipynb_checkpoints/
+src/svd.png
+.env/
+.ipynb_checkpoints/
+model.pkl
+AzureFun
